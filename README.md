@@ -18,3 +18,4 @@ Multiomic sequencing (lifescience) - is a research approach that integrates data
 It is going to be a 5-10 year strategy that is for more risk-tolerant investor. I am expecting to see large standard deviations on some of them. We are at the gusp of the world changing drastically as a result of Gen AI becoming mainstream. The new technologies are developing within matter of weeks, not matter of years, therefore I felt it would make sense to consder the stocks listed below. Further reasoning and descriptions are in the attached PowerPoint document.
 
 Stock analysis, risk, return, correlation heat map, efficient frontier, simulation of 5000 scenarios to find the optimal portfolio.
+At the very bottom of Jupyter file there are following outcomes: Minimum Risk, Max return, Optimal Risk-Return, Middle Range portfolio based on Medians.
