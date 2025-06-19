@@ -1,5 +1,4 @@
 # financial-analysis-python-capstone
-stock analysis, calculation of optimised portfolio for risk and return, pandas, matplotlib, numpy
 Python Financial Analysis Capstone project in Jupyter Notebook - Python, Pandas, NumPy, Matplotlib, cvxopt, seaborn.
 
 The purpose of this capstone is to practice accessing and downloading financial data, calculating financial statistics to understand the individual performance of an asset and how groups of assets are related, and how to allocate investments across assets for optimal performance.
